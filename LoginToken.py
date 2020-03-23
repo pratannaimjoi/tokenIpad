@@ -96,7 +96,7 @@ wait = {
     'autoJoin':True,
     'addadmin':False,
     'deladmin':False,
-    'message':"Thanks for add me\n by TΣΔM SLΔCҜβΩT\nOwner: line.me/ti/p/~fuck.you__",
+    'message':"Thanks for add me\n by ptatan1983\nOwner: line.me/ti/p/~ptatan1983__",
     "lang":"JP",
     }
     
